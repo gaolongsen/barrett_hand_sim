@@ -1,6 +1,6 @@
-# barrett_hand_sim 
+# barrett_hand_sim::Bug Repaired
 
-Bug Repaired
+
 
 Some users downloaded the previous version and catkin_make the files. After they input the roslaunch barrett_hand_gazebo barrett_hand.launch, the fatal error will be reported on the terminal: 
 
